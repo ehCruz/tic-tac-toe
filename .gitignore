@@ -1,0 +1,11 @@
+/segundo-bim/nbproject/private/
+/segundo-bim/build/
+/Game/nbproject/private/
+/Game/build/
+/Minmax/nbproject/private/
+/Minmax/build/
+/Hackerrank/nbproject/private/
+/Hackerrank/build/
+*.class
+*.txt
+
